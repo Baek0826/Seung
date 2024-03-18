@@ -1,0 +1,24 @@
+리스트 [value]
+튜플 (value)
+
+세트(집합) {value}
+-인덱스 없음(순서없음)
+-중복 안됨
+
+딕셔너리 {key:value, key:value, key:value,...}
+
+index 차이
+
+함수 list 객체 안에 존재하는 함수 = 메서드(method)
+
+mutable:변할 수 있는
+-list, set, dict
+immutalbe:변할 수 없는
+-int, float, str, tuple
+
+같은 주소를 참조
+얉은 복사
+깊은 복사(import copy, copy.deepcopy)
+
+언팩킹(구조분해할당)
+
