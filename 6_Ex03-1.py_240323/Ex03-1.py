@@ -1,6 +1,0 @@
-print('hello \'world\'')
-print("hello \"world\"")
-print('*\n**\n***')
-print('이름\t연락처')
-print('김일남\t010-1111-1111')
-print('김이남\t010-2222-2222')
